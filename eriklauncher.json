@@ -10,5 +10,17 @@
       "Endereço fixo: o launcher acha o Host por host.erikcarr.workers.dev, que nunca muda; com o Host fechado mostra \"Esperando o Erik abrir\"."
     ],
     "data": "2026-10-06"
+  },
+  "celular": {
+    "versao": "0.18.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v0.18.0/EriKLauncher-Celular-v0.18.0.apk",
+    "sha256": "6dc682dda393c3e3990a52cab30f3de16f3eb8e9e6e383797acd3edc8dcdc61b",
+    "tamanho": 127324873,
+    "notas": [
+      "Servidor reserva: recebe um servidor de backup junto do principal (troca no menu de região do jogo se o principal cair).",
+      "Endereço fixo: acha o Host por um endereço que nunca muda (host.erikcarr.workers.dev); com o Host fechado mostra \"Esperando o Erik abrir\".",
+      "Motor próprio EriKore embutido (sem FusionCore)."
+    ],
+    "data": "2026-10-06"
   }
 }
