@@ -1,13 +1,11 @@
 {
   "pc": {
-    "versao": "0.18.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v0.18.0/EriKLauncher-v0.18.0.exe",
-    "sha256": "212c81fc2ce8ecce2092361abb7074636e8e91a4c2d6db7bda8741b46112a601",
-    "tamanho": 100399466,
+    "versao": "0.19.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v0.19.0/EriKLauncher-v0.19.0.exe",
+    "sha256": "00e33ba4ad63df2177e856c2a59d4db1230d167c77e7280a1f4f05f09d6cfa56",
+    "tamanho": 100401790,
     "notas": [
-      "Servidor reserva: dá pra mandar um servidor de backup junto do principal (se o principal cair, troca no menu de região do jogo).",
-      "Painel do Host reformulado: estado grande (AO VIVO / sessão fechada), um switch por mod e retorno visual em cada clique.",
-      "Endereço fixo: o launcher acha o Host por host.erikcarr.workers.dev, que nunca muda; com o Host fechado mostra \"Esperando o Erik abrir\"."
+      "Ajustes do lado do Erik (controle do Host pela Central da Nuvem). Pra quem joga, nada muda: é só abrir e JOGAR."
     ],
     "data": "2026-10-06"
   },
