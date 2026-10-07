@@ -14,16 +14,18 @@
     "assinatura": "MEUCIQDGiP9P/JEa2vSiWhurBSXYA9Xfx7vTr8q/Djh452C5VgIgE/PdhCev2w/ZGy9+MvDsYWZ8fFbSC4aMGYGQELS80gU="
   },
   "celular": {
-    "versao": "0.18.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v0.18.0/EriKLauncher-Celular-v0.18.0.apk",
-    "sha256": "6dc682dda393c3e3990a52cab30f3de16f3eb8e9e6e383797acd3edc8dcdc61b",
-    "tamanho": 127324873,
+    "versao": "0.25.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v0.25.0/EriKLauncher-Celular-v0.25.0.apk",
+    "sha256": "5575f7f0e4f38aeda030cc4ce16f7dd70404399a423e7d667a753e6fdf8c25f5",
+    "tamanho": 127374188,
     "notas": [
-      "Servidor reserva: recebe um servidor de backup junto do principal (troca no menu de região do jogo se o principal cair).",
-      "Endereço fixo: acha o Host por um endereço que nunca muda (host.erikcarr.workers.dev); com o Host fechado mostra \"Esperando o Erik abrir\".",
-      "Motor próprio EriKore embutido (sem FusionCore)."
+      "Aviso de versão nova com a lista de novidades.",
+      "\"Nome no jogo\" nas Configurações (e, se quiser, o mesmo nome nos apps do Erik).",
+      "\"Relatar um problema\": manda pro Erik o que aconteceu. Se o jogo fechar com erro, o app pergunta se quer mandar.",
+      "Botão Atualizar, puxar a tela para atualizar, e o Voltar do Android fecha as janelas.",
+      "Motor do jogo mais novo: se o Among Us mudar, o app se ajeita sozinho."
     ],
-    "data": "2026-10-06"
+    "data": "2026-10-07"
   },
   "endereco": "https://host.erikcarr.workers.dev",
   "enderecoEm": "2026-10-06T01:48:51.344Z"
