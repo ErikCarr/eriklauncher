@@ -11,10 +11,10 @@
   * { box-sizing: border-box; }
   body { margin:0; background:var(--bg); color:var(--texto); font-family:"Segoe UI", system-ui, sans-serif; line-height:1.55; }
   main { max-width:880px; margin:0 auto; padding:40px 16px 56px; }
-  header { text-align:center; }
-  header .logo { width:420px; max-width:82%; height:auto; display:block; margin:0 auto; }
-  h1.oculto { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); border:0; }
-  .sub { color:var(--mudo); margin:14px auto 0; font-size:16px; max-width:620px; }
+  header { display:flex; align-items:center; gap:14px; }
+  header img { width:56px; height:56px; }
+  h1 { margin:0; font-size:34px; }
+  .sub { color:var(--mudo); margin:6px 0 0; font-size:16px; }
   .plats { display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin:26px 0 8px; }
   .plat { background:var(--card); border:1px solid var(--linha); border-radius:14px; padding:18px; }
   .plat h3 { margin:0 0 2px; font-size:19px; }
@@ -35,9 +35,11 @@
 <body>
 <main>
   <header>
-    <h1 class="oculto">EriK Launcher</h1>
-    <img class="logo" src="logo.png" alt="EriK Launcher">
-    <p class="sub">Jogue os mods do Erik Carr no Among Us — sem instalar mod nenhum na mão. O jogo original fica intocado.</p>
+    <img src="https://raw.githubusercontent.com/ErikCarr/eriklauncher/main/icone.png" alt="" onerror="this.remove()">
+    <div>
+      <h1>EriK Launcher</h1>
+      <p class="sub">Jogue os mods do Erik Carr no Among Us — sem instalar mod nenhum na mão. O jogo original fica intocado.</p>
+    </div>
   </header>
 
   <div class="plats">
