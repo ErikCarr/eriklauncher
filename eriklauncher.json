@@ -15,11 +15,12 @@
     "assinatura": "MEUCIAe1YQ981rwyajg4JPJxdpkUQs02wRW9CJZelsRssFfIAiEAuONO0SRUhsnon5Ltcg5yauA0TQtSKwpr/AdDkZS8eL8="
   },
   "celular": {
-    "versao": "0.25.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v0.25.0/EriKLauncher-Celular-v0.25.0.apk",
-    "sha256": "5575f7f0e4f38aeda030cc4ce16f7dd70404399a423e7d667a753e6fdf8c25f5",
-    "tamanho": 127374188,
+    "versao": "1.0.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.0.0/EriKLauncher-Celular-v1.0.0.apk",
+    "sha256": "ab11ed9251ae76f36515e5d914c3eebbf35e491c5ac85516a08297151f79c311",
+    "tamanho": 127374184,
     "notas": [
+      "Versão 1.0.0: o lançamento oficial do EriK Launcher!",
       "Aviso de versão nova com a lista de novidades.",
       "\"Nome no jogo\" nas Configurações (e, se quiser, o mesmo nome nos apps do Erik).",
       "\"Relatar um problema\": manda pro Erik o que aconteceu. Se o jogo fechar com erro, o app pergunta se quer mandar.",
