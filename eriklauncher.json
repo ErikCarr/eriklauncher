@@ -15,12 +15,13 @@
     "assinatura": "MEUCIAe1YQ981rwyajg4JPJxdpkUQs02wRW9CJZelsRssFfIAiEAuONO0SRUhsnon5Ltcg5yauA0TQtSKwpr/AdDkZS8eL8="
   },
   "celular": {
-    "versao": "1.0.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.0.1/EriKLauncher-Celular-v1.0.1.apk",
-    "sha256": "0633adcde4a2a4f5643bffdf13ea7454d34aea0755bce3b2d03408167bcefc0f",
-    "tamanho": 127374188,
+    "versao": "1.1.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.1.0/EriKLauncher-Celular-v1.1.0.apk",
+    "sha256": "c8bfd0712b0338332c0c12453d804deb7d138cb3f997b28ca0d74e0c1c65ffaa",
+    "tamanho": 127390728,
     "notas": [
-      "Motor do jogo na versão de lançamento (1.0.0). Para quem joga, nada muda.",
+      "Se o Among Us já estiver aberto pelo EriMods, o app avisa em vez de dar erro.",
+      "Licenças de terceiros completas (Il2CppInterop e MonoMod).",
       "Versão 1.0.0: o lançamento oficial do EriK Launcher!",
       "Aviso de versão nova com a lista de novidades.",
       "\"Nome no jogo\" nas Configurações (e, se quiser, o mesmo nome nos apps do Erik).",
