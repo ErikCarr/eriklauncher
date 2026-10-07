@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EriK Launcher — jogue os mods do Erik no Among Us</title>
+<meta name="description" content="Baixe o EriK Launcher do Erik Carr (PC e Android): abre o Among Us original com os mods do Erik, sem instalar mod nenhum na mão.">
+<style>
+  :root { --bg:#f6f4ef; --card:#ffffff; --linha:#e3ded3; --texto:#1d1d1d; --mudo:#5f5b54; --destaque:#e23350; --destaque-escuro:#b4162f; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0a0e1c; --card:#141a33; --linha:#262e45; --texto:#eef1f8; --mudo:#9aa1b6; --destaque:#ff3d57; --destaque-escuro:#ff8aa0; } }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--texto); font-family:"Segoe UI", system-ui, sans-serif; line-height:1.55; }
+  main { max-width:880px; margin:0 auto; padding:40px 16px 56px; }
+  header { text-align:center; }
+  header .logo { width:420px; max-width:82%; height:auto; display:block; margin:0 auto; }
+  h1.oculto { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); border:0; }
+  .sub { color:var(--mudo); margin:14px auto 0; font-size:16px; max-width:620px; }
+  .plats { display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:14px; margin:26px 0 8px; }
+  .plat { background:var(--card); border:1px solid var(--linha); border-radius:14px; padding:18px; }
+  .plat h3 { margin:0 0 2px; font-size:19px; }
+  .plat .quem { color:var(--mudo); font-size:14px; margin:0 0 14px; }
+  .baixar { display:inline-flex; align-items:center; gap:10px; background:var(--destaque); color:#fff; font-weight:700; font-size:16px; text-decoration:none; border-radius:11px; padding:12px 18px; }
+  .baixar:hover { filter:brightness(1.06); }
+  .info { color:var(--mudo); font-size:13.5px; margin-top:10px; }
+  h2 { font-size:20px; margin:36px 0 12px; }
+  .passos { display:grid; grid-template-columns:repeat(auto-fit, minmax(190px, 1fr)); gap:12px; }
+  .passo { background:var(--card); border:1px solid var(--linha); border-radius:12px; padding:14px; font-size:14.5px; color:var(--mudo); }
+  .passo b { display:block; color:var(--texto); font-size:15.5px; margin-bottom:4px; }
+  .aviso { background:var(--card); border:1px solid var(--linha); border-left:4px solid var(--destaque); border-radius:0 10px 10px 0; padding:12px 14px; font-size:14.5px; color:var(--mudo); margin-bottom:10px; }
+  ul.novidades { margin:6px 0 0 18px; padding:0; color:var(--mudo); font-size:14px; }
+  footer { margin-top:44px; color:var(--mudo); font-size:13px; }
+  a { color:var(--destaque-escuro); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1 class="oculto">EriK Launcher</h1>
+    <img class="logo" src="logo.png" alt="EriK Launcher">
+    <p class="sub">Jogue os mods do Erik Carr no Among Us — sem instalar mod nenhum na mão. O jogo original fica intocado.</p>
+  </header>
+
+  <div class="plats">
+    <div class="plat">
+      <h3>💻 Computador</h3>
+      <p class="quem">Windows · precisa do Among Us da Steam ou da Epic</p>
+      <a class="baixar" id="baixar-pc" href="https://github.com/ErikCarr/eriklauncher/releases/latest">⬇ Baixar para o PC</a>
+      <div class="info" id="info-pc">É um arquivo só, não precisa instalar.</div>
+      <div id="novidades-pc"></div>
+    </div>
+    <div class="plat">
+      <h3>📱 Celular</h3>
+      <p class="quem">Android · o jogo já vem embutido, não precisa do Among Us instalado</p>
+      <a class="baixar" id="baixar-cel" href="https://github.com/ErikCarr/eriklauncher/releases/latest">⬇ Baixar para o Android</a>
+      <div class="info" id="info-cel">Instale o APK e abra. Ele se atualiza sozinho.</div>
+      <div id="novidades-cel"></div>
+    </div>
+  </div>
+
+  <h2>Como usar</h2>
+  <div class="passos">
+    <div class="passo"><b>1. Baixe e abra</b>No PC, abra o arquivo (o Windows pode avisar — <i>Mais informações → Executar assim mesmo</i>). No celular, instale o APK.</div>
+    <div class="passo"><b>2. Código, só na 1ª vez</b>Se pedir um <i>código de acesso</i>, use o que o Erik te passou. Depois disso não pede mais.</div>
+    <div class="passo"><b>3. Clique em JOGAR</b>Quando o Erik abrir uma sessão, o botão <i>JOGAR</i> aparece. O launcher abre o Among Us com os mods da sessão.</div>
+    <div class="passo"><b>4. Jogue com o Erik</b>Fechou o jogo, tudo volta ao normal. O Among Us original (Steam/Epic) continua limpo.</div>
+  </div>
+
+  <h2>Bom saber</h2>
+  <div class="aviso">Você não instala nenhum mod na mão: o launcher cuida de tudo e o jogo original fica intocado.</div>
+  <div class="aviso">O EriK Launcher se atualiza sozinho: quando sai uma versão nova, ele avisa ao abrir.</div>
+  <div class="aviso">Tem um <a href="tutorial.html">passo a passo com imagens</a> do EriK Launcher e do EriMods, no PC e no celular.</div>
+
+  <footer>EriK Launcher · criado por ErikCarr · <a href="https://github.com/ErikCarr/eriklauncher/releases">todas as versões</a></footer>
+</main>
+<script>
+  // versões, tamanhos e novidades vêm do eriklauncher.json (o mesmo que o app lê para se atualizar)
+  function montar(bloco, idBtn, idInfo, idNov, rotulo) {
+    if (!bloco || !bloco.versao || !bloco.url) return;
+    const a = document.getElementById(idBtn);
+    a.href = bloco.url;
+    a.textContent = '⬇ Baixar ' + rotulo + ' ' + bloco.versao;
+    const mb = bloco.tamanho ? Math.round(bloco.tamanho / 1048576) + ' MB · ' : '';
+    const quando = bloco.data ? 'versão de ' + bloco.data.split('-').reverse().join('/') : '';
+    document.getElementById(idInfo).textContent = (mb + quando).replace(/ · $/, '') || document.getElementById(idInfo).textContent;
+    if (Array.isArray(bloco.notas) && bloco.notas.length) {
+      const div = document.getElementById(idNov);
+      const t = document.createElement('div'); t.className = 'info'; t.style.marginTop = '12px'; t.textContent = 'Novidades:';
+      const ul = document.createElement('ul'); ul.className = 'novidades';
+      bloco.notas.slice(0, 5).forEach(n => { const li = document.createElement('li'); li.textContent = n; ul.appendChild(li); });
+      div.append(t, ul);
+    }
+  }
+  fetch('eriklauncher.json?t=' + Date.now()).then(r => r.json()).then(m => {
+    montar(m.pc, 'baixar-pc', 'info-pc', 'novidades-pc', 'para o PC');
+    montar(m.celular, 'baixar-cel', 'info-cel', 'novidades-cel', 'para o Android');
+  }).catch(() => {});
+</script>
+</body>
+</html>
