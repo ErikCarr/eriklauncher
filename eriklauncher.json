@@ -1,17 +1,18 @@
 {
   "pc": {
-    "versao": "0.25.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v0.25.0/EriKLauncher-v0.25.0.exe",
-    "sha256": "944db8c12f69f0334ba0165967b1029250d3471b95939e1f2f1d09b3d9ea35d9",
-    "tamanho": 100512282,
+    "versao": "1.0.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.0.0/EriKLauncher-v1.0.0.exe",
+    "sha256": "7773b437c66508a167efecf481fad01acc3d1af63c114c29700c878260db9af2",
+    "tamanho": 100511933,
     "notas": [
+      "Versão 1.0.0: o lançamento oficial do EriK Launcher!",
       "Tela de carregamento ao abrir e, no JOGAR, o launcher espera os mods carregarem antes do \"Bom jogo!\".",
       "Aviso de versão nova no alto da tela, com a lista de novidades. As atualizações agora vêm assinadas pelo Erik.",
       "Visual novo, igual ao do celular, com música, sons e o botão Atualizar.",
       "\"Relatar um problema\": manda pro Erik o que aconteceu. Se o jogo fechar com erro, o launcher pergunta se quer mandar."
     ],
     "data": "2026-10-07",
-    "assinatura": "MEUCIQDGiP9P/JEa2vSiWhurBSXYA9Xfx7vTr8q/Djh452C5VgIgE/PdhCev2w/ZGy9+MvDsYWZ8fFbSC4aMGYGQELS80gU="
+    "assinatura": "MEUCIAe1YQ981rwyajg4JPJxdpkUQs02wRW9CJZelsRssFfIAiEAuONO0SRUhsnon5Ltcg5yauA0TQtSKwpr/AdDkZS8eL8="
   },
   "celular": {
     "versao": "0.25.0",
