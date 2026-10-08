@@ -22,6 +22,8 @@
   .baixar { display:inline-flex; align-items:center; gap:10px; background:var(--destaque); color:#fff; font-weight:700; font-size:16px; text-decoration:none; border-radius:11px; padding:12px 18px; }
   .baixar:hover { filter:brightness(1.06); }
   .info { color:var(--mudo); font-size:13.5px; margin-top:10px; }
+  .req { margin:0 0 14px; font-size:14px; color:var(--texto); background:var(--bg); border:1px solid var(--linha); border-radius:9px; padding:8px 11px; }
+  .req b { color:var(--destaque-escuro); }
   h2 { font-size:20px; margin:36px 0 12px; }
   .passos { display:grid; grid-template-columns:repeat(auto-fit, minmax(190px, 1fr)); gap:12px; }
   .passo { background:var(--card); border:1px solid var(--linha); border-radius:12px; padding:14px; font-size:14.5px; color:var(--mudo); }
@@ -53,6 +55,7 @@
     <div class="plat">
       <h3>📱 Celular</h3>
       <p class="quem">Android · o jogo já vem embutido, não precisa do Among Us instalado</p>
+      <div class="req"><b>Precisa de:</b> Android 11 ou mais novo e celular de 64 bits.</div>
       <a class="baixar" id="baixar-cel" href="https://github.com/ErikCarr/eriklauncher/releases/latest">⬇ Baixar para o Android</a>
       <div class="info" id="info-cel">Instale o APK e abra. Ele se atualiza sozinho.</div>
       <div id="novidades-cel"></div>
@@ -70,6 +73,7 @@
   <h2>Bom saber</h2>
   <div class="aviso">Você não instala nenhum mod na mão: o launcher cuida de tudo e o jogo original fica intocado.</div>
   <div class="aviso">O EriK Launcher se atualiza sozinho: quando sai uma versão nova, ele avisa ao abrir.</div>
+  <div class="aviso"><b style="color:var(--texto)">No celular apareceu "Erro ao analisar o pacote"?</b><br>1. Veja a versão do Android em <i>Configurações → Sobre o telefone</i>: precisa ser <b>11 ou mais nova</b> (e o celular de 64 bits). Num Android mais antigo o app não instala.<br>2. Se o Android for 11 ou mais novo, o arquivo veio incompleto: apague o APK, confira se tem espaço livre e baixe de novo <b>por esta página, no navegador</b>, esperando o download terminar. Arquivo repassado pelo WhatsApp ou Telegram pode chegar estragado.</div>
   <div class="aviso">Tem um <a href="tutorial.html">passo a passo com imagens</a> do EriK Launcher e do EriMods, no PC e no celular.</div>
 
   <footer>EriK Launcher · criado por ErikCarr · <a href="https://github.com/ErikCarr/eriklauncher/releases">todas as versões</a></footer>
