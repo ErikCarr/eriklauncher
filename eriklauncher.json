@@ -1,17 +1,16 @@
 {
   "pc": {
-    "versao": "1.2.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.2.0/EriKLauncher-v1.2.0.exe",
-    "sha256": "cc01c7a1175d3983fd135817137aeb16b36e46e6efbfa966d9dfaf3d5e2e2d35",
-    "tamanho": 100516243,
+    "versao": "1.2.1",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.2.1/EriKLauncher-v1.2.1.exe",
+    "sha256": "c2d98b1a0a7dd72b65ef1439273cf1ac8810ae87570eb5a7c7655a5c64e419dd",
+    "tamanho": 100517733,
     "notas": [
-      "Steam: corrigido o erro \"SteamworksAuthFail\" ao jogar com mod. Não precisa mais pôr o steam_appid.txt na mão.",
-      "Epic Games: o launcher agora prepara o jogo com mod (antes dava \"EPERM\" na pasta do jogo). Na primeira vez demora um pouco mais.",
-      "Epic Games: o jogo com mod entra na sua conta da Epic (antes dava \"Unable to get Epic Account ID\"). A Epic abre por um instante e o Among Us abre logo depois.",
-      "Se a Steam estiver fechada, o launcher abre ela antes do jogo."
+      "Atualizar o launcher não abre mais uma janela preta vazia (antes ela só fechava com Ctrl+C).",
+      "O Atualizar agora troca de verdade o EriK Launcher que você abre; antes, ao abrir de novo, ele podia voltar para a versão antiga.",
+      "Desta vez, baixe o EriKLauncher-v1.2.1.exe em erikcarr.github.io/eriklauncher (o Atualizar das versões antigas tem o problema acima). Se abrir a janela preta, feche no X."
     ],
     "data": "2026-10-15",
-    "assinatura": "MEUCIGUwPVPusJhPcKCV3kS9ABqFsP3PZ6klEIYr0wqe1BUUAiEAnaZ5BxcyeWHBg645NMiAXcv2w9/ChKzppOCqxYKYRTo="
+    "assinatura": "MEQCIC5GU10K6dPW2pxgi6SD1xkUTfDrCbP/WrhwNwdfkLTRAiBhiV+YldN1VHi7BFQiu0p9d6fXgIJ88ti0JN4i298P/g=="
   },
   "celular": {
     "versao": "1.1.0",
