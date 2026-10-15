@@ -1,18 +1,17 @@
 {
   "pc": {
-    "versao": "1.0.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.0.0/EriKLauncher-v1.0.0.exe",
-    "sha256": "7773b437c66508a167efecf481fad01acc3d1af63c114c29700c878260db9af2",
-    "tamanho": 100511933,
+    "versao": "1.2.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.2.0/EriKLauncher-v1.2.0.exe",
+    "sha256": "cc01c7a1175d3983fd135817137aeb16b36e46e6efbfa966d9dfaf3d5e2e2d35",
+    "tamanho": 100516243,
     "notas": [
-      "Versão 1.0.0: o lançamento oficial do EriK Launcher!",
-      "Tela de carregamento ao abrir e, no JOGAR, o launcher espera os mods carregarem antes do \"Bom jogo!\".",
-      "Aviso de versão nova no alto da tela, com a lista de novidades. As atualizações agora vêm assinadas pelo Erik.",
-      "Visual novo, igual ao do celular, com música, sons e o botão Atualizar.",
-      "\"Relatar um problema\": manda pro Erik o que aconteceu. Se o jogo fechar com erro, o launcher pergunta se quer mandar."
+      "Steam: corrigido o erro \"SteamworksAuthFail\" ao jogar com mod. Não precisa mais pôr o steam_appid.txt na mão.",
+      "Epic Games: o launcher agora prepara o jogo com mod (antes dava \"EPERM\" na pasta do jogo). Na primeira vez demora um pouco mais.",
+      "Epic Games: o jogo com mod entra na sua conta da Epic (antes dava \"Unable to get Epic Account ID\"). A Epic abre por um instante e o Among Us abre logo depois.",
+      "Se a Steam estiver fechada, o launcher abre ela antes do jogo."
     ],
-    "data": "2026-10-07",
-    "assinatura": "MEUCIAe1YQ981rwyajg4JPJxdpkUQs02wRW9CJZelsRssFfIAiEAuONO0SRUhsnon5Ltcg5yauA0TQtSKwpr/AdDkZS8eL8="
+    "data": "2026-10-15",
+    "assinatura": "MEUCIGUwPVPusJhPcKCV3kS9ABqFsP3PZ6klEIYr0wqe1BUUAiEAnaZ5BxcyeWHBg645NMiAXcv2w9/ChKzppOCqxYKYRTo="
   },
   "celular": {
     "versao": "1.1.0",
