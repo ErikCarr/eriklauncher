@@ -1,16 +1,15 @@
 {
   "pc": {
-    "versao": "1.2.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.2.1/EriKLauncher-v1.2.1.exe",
-    "sha256": "c2d98b1a0a7dd72b65ef1439273cf1ac8810ae87570eb5a7c7655a5c64e419dd",
-    "tamanho": 100517733,
+    "versao": "1.2.2",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.2.2/EriKLauncher-v1.2.2.exe",
+    "sha256": "310a8170accb24ec5c26f8521e6ca98bb9ab20926d93743ededeba6a9c9647fb",
+    "tamanho": 100516097,
     "notas": [
-      "Atualizar o launcher não abre mais uma janela preta vazia (antes ela só fechava com Ctrl+C).",
-      "O Atualizar agora troca de verdade o EriK Launcher que você abre; antes, ao abrir de novo, ele podia voltar para a versão antiga.",
-      "Desta vez, baixe o EriKLauncher-v1.2.1.exe em erikcarr.github.io/eriklauncher (o Atualizar das versões antigas tem o problema acima). Se abrir a janela preta, feche no X."
+      "Mods grandes voltam a baixar em internet lenta ou instável (o launcher tentava só 20 segundos).",
+      "Se o download cair no meio, ele tenta de novo sozinho."
     ],
-    "data": "2026-10-15",
-    "assinatura": "MEQCIC5GU10K6dPW2pxgi6SD1xkUTfDrCbP/WrhwNwdfkLTRAiBhiV+YldN1VHi7BFQiu0p9d6fXgIJ88ti0JN4i298P/g=="
+    "data": "2026-10-23",
+    "assinatura": "MEUCIBVRRDy/q8id1JvFQh/iSYwL/uhpmx2ofwHGXQF9dIn3AiEAg2+a+3PrcBdfXBEPPDdoV3k60PRNLU9wEcTCOCaLXTU="
   },
   "celular": {
     "versao": "1.1.1",
