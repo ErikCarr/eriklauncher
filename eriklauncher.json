@@ -13,21 +13,15 @@
     "assinatura": "MEQCIC5GU10K6dPW2pxgi6SD1xkUTfDrCbP/WrhwNwdfkLTRAiBhiV+YldN1VHi7BFQiu0p9d6fXgIJ88ti0JN4i298P/g=="
   },
   "celular": {
-    "versao": "1.1.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.1.0/EriKLauncher-Celular-v1.1.0.apk",
-    "sha256": "c8bfd0712b0338332c0c12453d804deb7d138cb3f997b28ca0d74e0c1c65ffaa",
-    "tamanho": 127390728,
+    "versao": "1.1.1",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.1.1/EriKLauncher-Celular-v1.1.1.apk",
+    "sha256": "f5d88e7ca79a0ac1468176ce313e05b77f90bf32fe620b5471a4c0f0e676dbeb",
+    "tamanho": 81662227,
     "notas": [
-      "Se o Among Us já estiver aberto pelo EriMods, o app avisa em vez de dar erro.",
-      "Licenças de terceiros completas (Il2CppInterop e MonoMod).",
-      "Versão 1.0.0: o lançamento oficial do EriK Launcher!",
-      "Aviso de versão nova com a lista de novidades.",
-      "\"Nome no jogo\" nas Configurações (e, se quiser, o mesmo nome nos apps do Erik).",
-      "\"Relatar um problema\": manda pro Erik o que aconteceu. Se o jogo fechar com erro, o app pergunta se quer mandar.",
-      "Botão Atualizar, puxar a tela para atualizar, e o Voltar do Android fecha as janelas.",
-      "Motor do jogo mais novo: se o Among Us mudar, o app se ajeita sozinho."
+      "Mods grandes voltam a baixar em internet lenta ou instável (o app desistia em 20 segundos).",
+      "Se o download cair no meio, o app tenta de novo sozinho."
     ],
-    "data": "2026-10-07"
+    "data": "2026-10-23"
   },
   "endereco": "https://host.erikcarr.workers.dev",
   "enderecoEm": "2026-10-06T01:48:51.344Z"
