@@ -1,15 +1,17 @@
 {
   "pc": {
-    "versao": "1.2.2",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.2.2/EriKLauncher-v1.2.2.exe",
-    "sha256": "310a8170accb24ec5c26f8521e6ca98bb9ab20926d93743ededeba6a9c9647fb",
-    "tamanho": 100516097,
+    "versao": "1.5.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.5.0/EriKLauncher-v1.5.0.exe",
+    "sha256": "b7611e26bc03ffeef96470f481bc9411f4589d11de1583e2eeab5e96ff15c566",
+    "tamanho": 100519737,
     "notas": [
-      "Mods grandes voltam a baixar em internet lenta ou instável (o launcher tentava só 20 segundos).",
-      "Se o download cair no meio, ele tenta de novo sozinho."
+      "Chamar a galera: faixa \"O Erik está jogando agora\" e mural de recados do Erik.",
+      "Botão \"Verificar atualização\" na tela principal.",
+      "Tela cheia no PC (F11).",
+      "No celular: avisos opcionais quando o Erik for jogar, e agora também no Android 9 e 10."
     ],
-    "data": "2026-10-23",
-    "assinatura": "MEUCIBVRRDy/q8id1JvFQh/iSYwL/uhpmx2ofwHGXQF9dIn3AiEAg2+a+3PrcBdfXBEPPDdoV3k60PRNLU9wEcTCOCaLXTU="
+    "data": "2026-10-28",
+    "assinatura": "MEUCIF4uY9K5Zj3YnZUnom5blAu+xtxn15Uy/VFzkgRzxj2bAiEAxM2/wvLEnl6UVUDTaAqpF0nOUQu6xWa1zAVWXEAgo5M="
   },
   "celular": {
     "versao": "1.5.0",
