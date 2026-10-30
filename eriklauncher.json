@@ -1,17 +1,18 @@
 {
   "pc": {
-    "versao": "1.5.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.5.0/EriKLauncher-v1.5.0.exe",
-    "sha256": "b7611e26bc03ffeef96470f481bc9411f4589d11de1583e2eeab5e96ff15c566",
-    "tamanho": 100519737,
+    "versao": "1.18.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.18.0/EriKLauncher-v1.18.0.exe",
+    "sha256": "5f968e991a01c3153809d758fc251b994fd360c41301a3d49f854f45740d8bf9",
+    "tamanho": 100540438,
     "notas": [
-      "Chamar a galera: faixa \"O Erik está jogando agora\" e mural de recados do Erik.",
-      "Botão \"Verificar atualização\" na tela principal.",
-      "Tela cheia no PC (F11).",
-      "No celular: avisos opcionais quando o Erik for jogar, e agora também no Android 9 e 10."
+      "Entrar com o Discord (opcional): seu perfil com foto, nível e partidas jogadas com o Erik.",
+      "No celular: entre com a sua conta do Among Us (nome, amigos e cosméticos).",
+      "No celular: microfone para os mods de voz (pergunta só na primeira vez; dá para negar e jogar normal).",
+      "Aviso na tela quando o Erik encerra a partida de todos.",
+      "Correções: o jogo não fecha mais ao abrir pelo celular e a sala não cai mais com vários mods."
     ],
-    "data": "2026-10-28",
-    "assinatura": "MEUCIF4uY9K5Zj3YnZUnom5blAu+xtxn15Uy/VFzkgRzxj2bAiEAxM2/wvLEnl6UVUDTaAqpF0nOUQu6xWa1zAVWXEAgo5M="
+    "data": "2026-10-30",
+    "assinatura": "MEUCIQC7W3qxU+YqblrDhMhLMPu31vvp6OLyTDF/hgg1Zr2M7AIgDfeXgIizHl4gsM09UzPSZhGZUUWFlM/YNhUD+CfcemA="
   },
   "celular": {
     "versao": "1.5.0",
