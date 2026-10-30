@@ -15,17 +15,18 @@
     "assinatura": "MEUCIQC7W3qxU+YqblrDhMhLMPu31vvp6OLyTDF/hgg1Zr2M7AIgDfeXgIizHl4gsM09UzPSZhGZUUWFlM/YNhUD+CfcemA="
   },
   "celular": {
-    "versao": "1.5.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.5.0/EriKLauncher-Celular-v1.5.0.apk",
-    "sha256": "00e5ee54d1c08157a645ffec865bd41a94c7c472fe8dcc60a21e810691ed59f4",
-    "tamanho": 129632310,
+    "versao": "1.18.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.18.0/EriKLauncher-Celular-v1.18.0.apk",
+    "sha256": "cbcdad5cea2c887b7aaab5ff534da7599cc85223e28058d28dd43a07f32a89c1",
+    "tamanho": 129665327,
     "notas": [
-      "Chamar a galera: faixa \"O Erik está jogando agora\" e mural de recados do Erik.",
-      "Botão \"Verificar atualização\" na tela principal.",
-      "Tela cheia no PC (F11).",
-      "No celular: avisos opcionais quando o Erik for jogar, e agora também no Android 9 e 10."
+      "Entrar com o Discord (opcional): seu perfil com foto, nível e partidas jogadas com o Erik.",
+      "No celular: entre com a sua conta do Among Us (nome, amigos e cosméticos).",
+      "No celular: microfone para os mods de voz (pergunta só na primeira vez; dá para negar e jogar normal).",
+      "Aviso na tela quando o Erik encerra a partida de todos.",
+      "Correções: o jogo não fecha mais ao abrir pelo celular e a sala não cai mais com vários mods."
     ],
-    "data": "2026-10-28"
+    "data": "2026-10-30"
   },
   "endereco": "https://gentle-pierce-view-donald.trycloudflare.com",
   "enderecoEm": "2026-10-30T22:28:50.783Z"
