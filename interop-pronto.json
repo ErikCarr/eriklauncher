@@ -1,0 +1,15 @@
+{
+  "formato": 1,
+  "pacotes": [],
+  "pc": [
+    {
+      "gameAssembly": "9390d54d2f10bcc0d9ba0db3e6d04282",
+      "bepinex": "6.0.0-be.752+dd0655fe9d7473b18b0af759448adaf272878fcf",
+      "unity": "2022.3.44",
+      "url": "https://github.com/ErikCarr/eriklauncher/releases/download/interop-pronto/interop-pc-9390d54d.zip",
+      "sha256": "f35d86f4246f252773f834e3d191292043b8d2b96cb17a2bf76a9c74c9f470d2",
+      "tamanho": 23278684,
+      "data": "2026-10-31"
+    }
+  ]
+}
