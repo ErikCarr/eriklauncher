@@ -1,18 +1,19 @@
 {
   "pc": {
-    "versao": "1.18.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.18.0/EriKLauncher-v1.18.0.exe",
-    "sha256": "5f968e991a01c3153809d758fc251b994fd360c41301a3d49f854f45740d8bf9",
-    "tamanho": 100540438,
+    "versao": "1.28.1",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.28.1/EriKLauncher-v1.28.1.exe",
+    "sha256": "2556b42430f9d2b1b4799b4f3b1c0d2ba5d5097ec7edd8145fa6c9fa9e9ad5a1",
+    "tamanho": 100683405,
     "notas": [
-      "Entrar com o Discord (opcional): seu perfil com foto, nível e partidas jogadas com o Erik.",
-      "No celular: entre com a sua conta do Among Us (nome, amigos e cosméticos).",
-      "No celular: microfone para os mods de voz (pergunta só na primeira vez; dá para negar e jogar normal).",
-      "Aviso na tela quando o Erik encerra a partida de todos.",
-      "Correções: o jogo não fecha mais ao abrir pelo celular e a sala não cai mais com vários mods."
+      "Comunidade: dê ideias de mod, vote 👍/👎 e acompanhe as suas em \"Minhas ideias\" (dá para apagar).",
+      "Card do perfil novo, com nível, pontos e fundos; a foto é a do seu Discord.",
+      "Entrar com o Discord ficou mais fácil: no celular volta direto para o app; no PC abre numa janelinha.",
+      "Primeira vez mais rápida: o jogo já vem pronto para os mods.",
+      "Botão \"Relatar\" visível, para avisar o Erik de qualquer problema.",
+      "O app avisa \"Servidor desligado\" quando o Erik não está com a sessão aberta."
     ],
-    "data": "2026-10-30",
-    "assinatura": "MEUCIQC7W3qxU+YqblrDhMhLMPu31vvp6OLyTDF/hgg1Zr2M7AIgDfeXgIizHl4gsM09UzPSZhGZUUWFlM/YNhUD+CfcemA="
+    "data": "2026-11-01",
+    "assinatura": "MEUCIDXlbORqEz5GUsAhw+PdVRaQkR+xh+Ba0CVfW2cNU6CiAiEA7jals8YPuksG7e89qoUP3GJh53myShkXBsuP6Ff4Knk="
   },
   "celular": {
     "versao": "1.28.1",
