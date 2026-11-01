@@ -16,16 +16,16 @@
     "assinatura": "MEUCIDXlbORqEz5GUsAhw+PdVRaQkR+xh+Ba0CVfW2cNU6CiAiEA7jals8YPuksG7e89qoUP3GJh53myShkXBsuP6Ff4Knk="
   },
   "celular": {
-    "versao": "1.28.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.28.1/EriKLauncher-Celular-v1.28.1.apk",
-    "sha256": "72cb0092505351900380c452dd3e5e9fe587c59e57c788f0be41a1001f3de01a",
-    "tamanho": 84019125,
+    "versao": "1.28.5",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.28.5/EriKLauncher-Celular-v1.28.5.apk",
+    "sha256": "48ce99bd2d819f805c3b32b3c913f67f3c7803c7987aaca9bceede842247e5e0",
+    "tamanho": 84035509,
     "notas": [
-      "Comunidade: dê ideias de mod, vote 👍/👎 e acompanhe as suas em \"Minhas ideias\" (dá para apagar).",
-      "Card do perfil novo, com nível, pontos e fundos; a foto é a do seu Discord.",
-      "Entrar com o Discord ficou mais fácil: no celular volta direto para o app; no PC abre numa janelinha.",
-      "Primeira vez mais rápida: o jogo já vem pronto para os mods.",
-      "Botão \"Relatar\" visível, para avisar o Erik de qualquer problema.",
+      "Corrigido: o aviso de \"atualização disponível\" não fica mais aparecendo depois de atualizar.",
+      "Corrigido: a tela inicial agora cabe inteira em celulares de tela média, com o botão Relatar visível.",
+      "Corrigido: ao entrar com o Discord, o app volta sozinho e mostra o \"É você?\" em todos os celulares.",
+      "Comunidade: dê ideias de mod, vote e acompanhe as suas em \"Minhas ideias\" (dá para apagar).",
+      "Card do perfil novo; a foto é sempre a do seu Discord.",
       "O app avisa \"Servidor desligado\" quando o Erik não está com a sessão aberta."
     ],
     "data": "2026-11-01"
