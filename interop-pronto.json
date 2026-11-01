@@ -1,6 +1,16 @@
 {
   "formato": 1,
-  "pacotes": [],
+  "pacotes": [
+    {
+      "codigo": 7492,
+      "md5": "024cd8d0723e1c47e24f396dba0b1689",
+      "motor": "1.7.1",
+      "url": "https://github.com/ErikCarr/eriklauncher/releases/download/interop-pronto/interop-7492-024cd8d0.zip",
+      "sha256": "7903059f51c1c54d9845d8cc675b0d2c2253cf19e1d5152fa88967bd0271a0ff",
+      "tamanho": 11615786,
+      "data": "2026-11-01"
+    }
+  ],
   "pc": [
     {
       "gameAssembly": "9390d54d2f10bcc0d9ba0db3e6d04282",
