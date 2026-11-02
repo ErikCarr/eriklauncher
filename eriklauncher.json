@@ -1,19 +1,14 @@
 {
   "pc": {
-    "versao": "1.29.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.29.0/EriKLauncher-v1.29.0.exe",
-    "sha256": "4d36c0ba2be3266c10d7773c4cd3b7f2fff8b13db9b472bf4947f962f9fe2ad2",
-    "tamanho": 100663702,
+    "versao": "1.29.1",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.29.1/EriKLauncher-v1.29.1.exe",
+    "sha256": "135bc25c464770affa0fbf814ae6d575907e619f82f9d4e143a13dabaa6d5547",
+    "tamanho": 100685086,
     "notas": [
-      "Novo: toque numa ideia da Comunidade para abrir a explicação inteira, ver quem sugeriu e quando.",
-      "Novo: edite a sua própria ideia (até 5 vezes, os votos ficam) e veja o histórico de edições.",
-      "Novo: o launcher do PC agora tem a aba Comunidade.",
-      "Novo: a versão do motor aparece no fim de Ajustes (celular).",
-      "Melhorado: abrir o jogo no celular ficou mais rápido e usa menos memória (EriKore 1.8.0).",
-      "Corrigido: a volta do Discord e o recado do mural."
+      "Corrigido: o botão JOGAR no PC dava \"Não deu para preparar o mod completo\". Se você atualizou para a 1.29.0 e viu esse erro, esta versão resolve."
     ],
     "data": "2026-11-02",
-    "assinatura": "MEQCIC77MqdX/nLIQQMBmRrC1SBbTvUFVzv1bd18zzC7+nlaAiBGsmiujzpAwmnvM9m/YgKgfDF/aIcJzLNO7kdyts+25g=="
+    "assinatura": "MEUCIQCbXkEEkBovDFNYvxTgqFK+qdq4W9x3WhPo+Ifgs7PuHgIgERr7ZtcV4brSlIootn55QZbsIO+XH5p9X8PYWb5RaQo="
   },
   "celular": {
     "versao": "1.29.2",
