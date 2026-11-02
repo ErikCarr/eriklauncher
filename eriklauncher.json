@@ -16,19 +16,19 @@
     "assinatura": "MEQCIC77MqdX/nLIQQMBmRrC1SBbTvUFVzv1bd18zzC7+nlaAiBGsmiujzpAwmnvM9m/YgKgfDF/aIcJzLNO7kdyts+25g=="
   },
   "celular": {
-    "versao": "1.28.5",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.28.5/EriKLauncher-Celular-v1.28.5.apk",
-    "sha256": "48ce99bd2d819f805c3b32b3c913f67f3c7803c7987aaca9bceede842247e5e0",
-    "tamanho": 84035509,
+    "versao": "1.29.2",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.29.2/EriKLauncher-Celular-v1.29.2.apk",
+    "sha256": "5ddd59b84630323292552fb052711ff5b99319c2b7d72daaff446580ee3de035",
+    "tamanho": 129780414,
     "notas": [
-      "Corrigido: o aviso de \"atualização disponível\" não fica mais aparecendo depois de atualizar.",
-      "Corrigido: a tela inicial agora cabe inteira em celulares de tela média, com o botão Relatar visível.",
-      "Corrigido: ao entrar com o Discord, o app volta sozinho e mostra o \"É você?\" em todos os celulares.",
-      "Comunidade: dê ideias de mod, vote e acompanhe as suas em \"Minhas ideias\" (dá para apagar).",
-      "Card do perfil novo; a foto é sempre a do seu Discord.",
-      "O app avisa \"Servidor desligado\" quando o Erik não está com a sessão aberta."
+      "Novo: toque numa ideia da Comunidade para abrir a explicação inteira, ver quem sugeriu e quando.",
+      "Novo: edite a sua própria ideia (até 5 vezes, os votos ficam) e veja o histórico de edições.",
+      "Novo: o launcher do PC agora tem a aba Comunidade.",
+      "Novo: a versão do motor aparece no fim de Ajustes (celular).",
+      "Melhorado: abrir o jogo no celular ficou mais rápido e usa menos memória (EriKore 1.8.0).",
+      "Corrigido: a volta do Discord e o recado do mural."
     ],
-    "data": "2026-11-01"
+    "data": "2026-11-02"
   },
   "endereco": "https://marco-gospel-chapter-silver.trycloudflare.com",
   "enderecoEm": "2026-11-02T10:27:41.815Z"
