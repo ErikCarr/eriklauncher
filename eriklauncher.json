@@ -1,19 +1,19 @@
 {
   "pc": {
-    "versao": "1.28.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.28.1/EriKLauncher-v1.28.1.exe",
-    "sha256": "2556b42430f9d2b1b4799b4f3b1c0d2ba5d5097ec7edd8145fa6c9fa9e9ad5a1",
-    "tamanho": 100683405,
+    "versao": "1.29.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.29.0/EriKLauncher-v1.29.0.exe",
+    "sha256": "4d36c0ba2be3266c10d7773c4cd3b7f2fff8b13db9b472bf4947f962f9fe2ad2",
+    "tamanho": 100663702,
     "notas": [
-      "Comunidade: dê ideias de mod, vote 👍/👎 e acompanhe as suas em \"Minhas ideias\" (dá para apagar).",
-      "Card do perfil novo, com nível, pontos e fundos; a foto é a do seu Discord.",
-      "Entrar com o Discord ficou mais fácil: no celular volta direto para o app; no PC abre numa janelinha.",
-      "Primeira vez mais rápida: o jogo já vem pronto para os mods.",
-      "Botão \"Relatar\" visível, para avisar o Erik de qualquer problema.",
-      "O app avisa \"Servidor desligado\" quando o Erik não está com a sessão aberta."
+      "Novo: toque numa ideia da Comunidade para abrir a explicação inteira, ver quem sugeriu e quando.",
+      "Novo: edite a sua própria ideia (até 5 vezes, os votos ficam) e veja o histórico de edições.",
+      "Novo: o launcher do PC agora tem a aba Comunidade.",
+      "Novo: a versão do motor aparece no fim de Ajustes (celular).",
+      "Melhorado: abrir o jogo no celular ficou mais rápido e usa menos memória (EriKore 1.8.0).",
+      "Corrigido: a volta do Discord e o recado do mural."
     ],
-    "data": "2026-11-01",
-    "assinatura": "MEUCIDXlbORqEz5GUsAhw+PdVRaQkR+xh+Ba0CVfW2cNU6CiAiEA7jals8YPuksG7e89qoUP3GJh53myShkXBsuP6Ff4Knk="
+    "data": "2026-11-02",
+    "assinatura": "MEQCIC77MqdX/nLIQQMBmRrC1SBbTvUFVzv1bd18zzC7+nlaAiBGsmiujzpAwmnvM9m/YgKgfDF/aIcJzLNO7kdyts+25g=="
   },
   "celular": {
     "versao": "1.28.5",
