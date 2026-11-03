@@ -25,5 +25,13 @@
     "data": "2026-11-03"
   },
   "endereco": "https://cloth-establishing-hospitality-worm.trycloudflare.com",
-  "enderecoEm": "2026-11-02T15:32:23.501Z"
+  "enderecoEm": "2026-11-02T15:32:23.501Z",
+  "servidores": [
+    {
+      "nome": "Bllr-Brasil",
+      "endereco": "bllr-brasil.duckdns.org",
+      "porta": 443,
+      "https": true
+    }
+  ]
 }
