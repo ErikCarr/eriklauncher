@@ -12,14 +12,13 @@
     "assinatura": "MEUCIAm00AEGsQcajX87cX4ZROsbXtKEFP5LHxeuRgfBAP5WAiEAzA6ZkRvkdGvQa713sXSyC9q/myAVtZJ8O11iL0Kr1Oo="
   },
   "celular": {
-    "versao": "1.30.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.30.0/EriKLauncher-Celular-v1.30.0.apk",
-    "sha256": "eb3ae388466b63fcd5753fa4d98ccc734095ba9090ac82688587bcaaf5d73b96",
+    "versao": "1.30.1",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.30.1/EriKLauncher-Celular-v1.30.1.apk",
+    "sha256": "b932811a80bda4be61996c3ea70130c1c8b7e653085f853498f5e83a13671026",
     "tamanho": 84199445,
     "notas": [
-      "Novo: botão \"Jogar normal (sem mods)\" na aba Jogar. Abre o Among Us sem os mods do Erik, sem precisar do servidor dele ligado, com os servidores do Brasil e a opção \"Melhorar desempenho\".",
-      "Novo: o tempo no \"Jogar normal\" também conta pontos de nível (quem liga o Discord).",
-      "Alterado: PC, celular e Host agora têm sempre o mesmo número de versão."
+      "Corrigido: no PC, \"Entrar com Discord\" e o perfil esperam mais tempo pelo servidor e tentam de novo sozinhos quando a internet está lenta.",
+      "Melhorado: a mensagem de falha agora diz o que fazer."
     ],
     "data": "2026-11-03"
   },
