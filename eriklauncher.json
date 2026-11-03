@@ -13,16 +13,16 @@
     "assinatura": "MEQCIDssjnioNDbVf/EvaBWFONSUeBT+DsXsnPd4fDV4q6NLAiAQte3pkfGWSvQF7td/1/3OcrXisnEItOkbTbrQRRG67A=="
   },
   "celular": {
-    "versao": "1.29.3",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.29.3/EriKLauncher-Celular-v1.29.3.apk",
-    "sha256": "ac905df8a44b3535258ee07ac7dfed431b4ceb94f06b13f667e895ce4f1d155f",
-    "tamanho": 129780414,
+    "versao": "1.30.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.30.0/EriKLauncher-Celular-v1.30.0.apk",
+    "sha256": "eb3ae388466b63fcd5753fa4d98ccc734095ba9090ac82688587bcaaf5d73b96",
+    "tamanho": 84199445,
     "notas": [
-      "Corrigido: o aviso \"Faça o login\" não cobre mais o cartão da sessão em celulares de tela mais baixa.",
-      "Melhorado: o jogo abre mais rápido e usa menos memória (EriKore 1.8.0).",
-      "Novo: toque numa ideia da Comunidade para ler a explicação inteira e editar a sua."
+      "Novo: botão \"Jogar normal (sem mods)\" na aba Jogar. Abre o Among Us sem os mods do Erik, sem precisar do servidor dele ligado, com os servidores do Brasil e a opção \"Melhorar desempenho\".",
+      "Novo: o tempo no \"Jogar normal\" também conta pontos de nível (quem liga o Discord).",
+      "Alterado: PC, celular e Host agora têm sempre o mesmo número de versão."
     ],
-    "data": "2026-11-02"
+    "data": "2026-11-03"
   },
   "endereco": "https://cloth-establishing-hospitality-worm.trycloudflare.com",
   "enderecoEm": "2026-11-02T15:32:23.501Z"
