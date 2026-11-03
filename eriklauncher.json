@@ -1,14 +1,16 @@
 {
   "pc": {
-    "versao": "1.29.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.29.1/EriKLauncher-v1.29.1.exe",
-    "sha256": "135bc25c464770affa0fbf814ae6d575907e619f82f9d4e143a13dabaa6d5547",
-    "tamanho": 100685086,
+    "versao": "1.30.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.30.0/EriKLauncher-v1.30.0.exe",
+    "sha256": "78420b710a488ff390ca20b16bd07f37da719c0fc91ae282dff171b825d406c8",
+    "tamanho": 100805280,
     "notas": [
-      "Corrigido: o botão JOGAR no PC dava \"Não deu para preparar o mod completo\". Se você atualizou para a 1.29.0 e viu esse erro, esta versão resolve."
+      "Novo: botão \"Jogar normal (sem mods)\" na aba Jogar. Abre o Among Us sem os mods do Erik, sem precisar do servidor dele ligado, com os servidores do Brasil e a opção \"Melhorar desempenho\".",
+      "Novo: o tempo no \"Jogar normal\" também conta pontos de nível (quem liga o Discord).",
+      "Alterado: PC, celular e Host agora têm sempre o mesmo número de versão."
     ],
-    "data": "2026-11-02",
-    "assinatura": "MEUCIQCbXkEEkBovDFNYvxTgqFK+qdq4W9x3WhPo+Ifgs7PuHgIgERr7ZtcV4brSlIootn55QZbsIO+XH5p9X8PYWb5RaQo="
+    "data": "2026-11-03",
+    "assinatura": "MEQCIDssjnioNDbVf/EvaBWFONSUeBT+DsXsnPd4fDV4q6NLAiAQte3pkfGWSvQF7td/1/3OcrXisnEItOkbTbrQRRG67A=="
   },
   "celular": {
     "versao": "1.29.3",
