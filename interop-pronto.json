@@ -2,6 +2,15 @@
   "formato": 1,
   "pacotes": [
     {
+      "codigo": 7616,
+      "md5": "8c20d59ebfb571445f842135cc957be4",
+      "motor": "1.7.1",
+      "url": "https://github.com/ErikCarr/eriklauncher/releases/download/interop-pronto/interop-7616-8c20d59e.zip",
+      "sha256": "b7e107c93db0623e03a0383741f92fd01186d341ffa7899b8b6caf2087aa48b5",
+      "tamanho": 11615644,
+      "data": "2026-11-06"
+    },
+    {
       "codigo": 7492,
       "md5": "024cd8d0723e1c47e24f396dba0b1689",
       "motor": "1.7.1",
