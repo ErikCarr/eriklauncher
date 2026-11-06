@@ -12,15 +12,15 @@
     "assinatura": "MEUCIAm00AEGsQcajX87cX4ZROsbXtKEFP5LHxeuRgfBAP5WAiEAzA6ZkRvkdGvQa713sXSyC9q/myAVtZJ8O11iL0Kr1Oo="
   },
   "celular": {
-    "versao": "1.30.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.30.1/EriKLauncher-Celular-v1.30.1.apk",
-    "sha256": "b932811a80bda4be61996c3ea70130c1c8b7e653085f853498f5e83a13671026",
-    "tamanho": 84199445,
+    "versao": "1.33.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.33.0/EriKLauncher-Celular-v1.33.0.apk",
+    "sha256": "093a0992872ecb7825ba5a27ce3bd2b9e34539c180f283015a4060d4cd29d34a",
+    "tamanho": 129944330,
     "notas": [
-      "Corrigido: no PC, \"Entrar com Discord\" e o perfil esperam mais tempo pelo servidor e tentam de novo sozinhos quando a internet está lenta.",
-      "Melhorado: a mensagem de falha agora diz o que fazer."
+      "Corrigido: celulares com pouca memória (4 GB) não ficam mais presos preparando os mods ao abrir o jogo; o preparo agora vem pronto, mesmo sem a permissão de arquivos.",
+      "Corrigido: o tempo com o jogo aberto agora conta no perfil."
     ],
-    "data": "2026-11-03"
+    "data": "2026-11-06"
   },
   "endereco": "https://cadillac-visitors-level-factors.trycloudflare.com",
   "enderecoEm": "2026-11-04T16:41:31.787Z",
