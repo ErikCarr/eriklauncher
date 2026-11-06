@@ -1,15 +1,16 @@
 {
   "pc": {
-    "versao": "1.30.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.30.1/EriKLauncher-v1.30.1.exe",
-    "sha256": "5956051703ddf9beae60a7f61fee73a97cd9f01d89fa638f5ba17bdbfe6774a2",
-    "tamanho": 100803977,
+    "versao": "1.35.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.35.0/EriKLauncher-v1.35.0.exe",
+    "sha256": "e862dec0c5e94e5ddfa9a1fe441a1ce349c3f22ceec5ae1098897cdd36ff3ae1",
+    "tamanho": 100808459,
     "notas": [
-      "Corrigido: no PC, \"Entrar com Discord\" e o perfil esperam mais tempo pelo servidor e tentam de novo sozinhos quando a internet está lenta.",
-      "Melhorado: a mensagem de falha agora diz o que fazer."
+      "Adicionado: na janela do Jogar normal, um aviso diz que só o tempo de jogo conta (as partidas não entram na ficha).",
+      "Corrigido: o tempo de jogo no PC passa a contar também com a janela do launcher descarregada, o endereço do servidor com nome solto não derruba mais a sessão e a atualização espera mais com antivírus lento.",
+      "Melhorado: o launcher usa menos memória com o jogo aberto (Modo leve e janela descarregada)."
     ],
-    "data": "2026-11-03",
-    "assinatura": "MEUCIAm00AEGsQcajX87cX4ZROsbXtKEFP5LHxeuRgfBAP5WAiEAzA6ZkRvkdGvQa713sXSyC9q/myAVtZJ8O11iL0Kr1Oo="
+    "data": "2026-11-06",
+    "assinatura": "MEQCIBuEiZb0gGgGCeXHwJ+NqQLClrOPrtmeJnhQOXglPdkNAiBQeVV4O3STTbK9vei8yfPzqjh+XtfQrBJ1yjmRwyhGhQ=="
   },
   "celular": {
     "versao": "1.33.0",
