@@ -11,15 +11,15 @@
     "assinatura": "MEUCIQDrftVh3uPjFr9amDhLsprOztnRk/+o3C1ViHVDHuMT/QIgOhTtYQBt/PQR2ypnyEzckv6s8vV8Xy+xKCCb0hgTGPE="
   },
   "celular": {
-    "versao": "1.33.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.33.0/EriKLauncher-Celular-v1.33.0.apk",
-    "sha256": "f6f62e82da57b227b27ca307d60ca2862b2f7e36b3039d280a7cf395d3501946",
+    "versao": "1.35.1",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.35.1/EriKLauncher-Celular-v1.35.1.apk",
+    "sha256": "f807dcbcd787719d0abb84bbde900878476218704532b92d0c2785fdabfca745",
     "tamanho": 84199445,
     "notas": [
-      "Corrigido: celulares com pouca memória (4 GB) não ficam mais presos preparando os mods ao abrir o jogo; o preparo agora vem pronto, mesmo sem a permissão de arquivos.",
-      "Corrigido: o tempo com o jogo aberto agora conta no perfil."
+      "Corrigido: no Jogar normal, os botões de ação do jogo não vêm mais grandes demais na primeira vez (tamanho padrão 100%), e dá para ajustar o tamanho pelos botões + e − ao lado do menu do jogo.",
+      "Adicionado: na janela do Jogar normal, um aviso diz que só o tempo de jogo conta (as partidas não entram na ficha)."
     ],
-    "data": "2026-11-06"
+    "data": "2026-11-07"
   },
   "endereco": "https://ribbon-subscribers-marco-compatible.trycloudflare.com",
   "enderecoEm": "2026-11-07T15:21:30.907Z",
