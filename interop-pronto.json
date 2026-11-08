@@ -18,6 +18,17 @@
       "sha256": "7903059f51c1c54d9845d8cc675b0d2c2253cf19e1d5152fa88967bd0271a0ff",
       "tamanho": 11615786,
       "data": "2026-11-01"
+    },
+    {
+      "codigo": 7616,
+      "md5": "8c20d59ebfb571445f842135cc957be4",
+      "motor": "1.7.1",
+      "url": "https://github.com/ErikCarr/eriklauncher/releases/download/interop-pronto/interop-7616-8c20d59e-v2.zip",
+      "sha256": "147568e433d5e1e8f804a07d60a24a6b8f0c5ecc600493a8803bc0a96e9cdb1f",
+      "tamanho": 13520182,
+      "unityLibs": true,
+      "unityLibsArquivos": 66,
+      "data": "2026-11-08"
     }
   ],
   "pc": [
