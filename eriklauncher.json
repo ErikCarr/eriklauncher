@@ -11,15 +11,15 @@
     "assinatura": "MEUCIQCgFNC2wbr3VMjpJ14PvADsutpMU25qLUnok1xg8srMogIgX1UlZ2uo7hgZPBwCMIWuqKPa2QtKtB3a1WO2ahbW8Y0="
   },
   "celular": {
-    "versao": "1.35.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.35.1/EriKLauncher-Celular-v1.35.1.apk",
-    "sha256": "f807dcbcd787719d0abb84bbde900878476218704532b92d0c2785fdabfca745",
+    "versao": "1.36.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.36.0/EriKLauncher-Celular-v1.36.0.apk",
+    "sha256": "516b20e73a143f6c0d3e11b1054f0a05bb6abcd52a294c1ee4cd9d8f8a572e78",
     "tamanho": 84199445,
     "notas": [
-      "Corrigido: no Jogar normal, os botões de ação do jogo não vêm mais grandes demais na primeira vez (tamanho padrão 100%), e dá para ajustar o tamanho pelos botões + e − ao lado do menu do jogo.",
-      "Adicionado: na janela do Jogar normal, um aviso diz que só o tempo de jogo conta (as partidas não entram na ficha)."
+      "Novo: não precisa mais de código para entrar na sessão do Erik, é só apertar JOGAR. O código só é pedido quando a sessão for restrita a algumas pessoas.",
+      "Corrigido: na primeira abertura, a preparação dos mods não é mais refeita do zero (o Android fechava o jogo em celulares de 3 a 4 GB). Motor atualizado para o modo de pouca memória."
     ],
-    "data": "2026-11-07"
+    "data": "2026-11-08"
   },
   "endereco": "https://ribbon-subscribers-marco-compatible.trycloudflare.com",
   "enderecoEm": "2026-11-07T15:21:30.907Z",
