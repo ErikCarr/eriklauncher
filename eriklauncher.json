@@ -1,14 +1,14 @@
 {
   "pc": {
-    "versao": "1.35.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.35.1/EriKLauncher-v1.35.1.exe",
-    "sha256": "cdda936f3bc7cdfdd27dffd99f6df0ab4d8b2aa1602889f04467716080c6ae80",
-    "tamanho": 100809252,
+    "versao": "1.36.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.36.0/EriKLauncher-v1.36.0.exe",
+    "sha256": "1a6370c14cc5dc75c1bc18ba2f5d9eb74b01346d0953b01d54fd861b911206eb",
+    "tamanho": 100811559,
     "notas": [
-      "Corrigido: no Jogar normal, os botões de ação do jogo não vêm mais grandes demais na primeira vez (tamanho padrão 100%), e dá para ajustar o tamanho pelos botões + e − ao lado do menu do jogo."
+      "Novo: não precisa mais de código para entrar na sessão do Erik, é só apertar JOGAR. O código só é pedido quando a sessão for restrita a algumas pessoas."
     ],
-    "data": "2026-11-07",
-    "assinatura": "MEUCIQDrftVh3uPjFr9amDhLsprOztnRk/+o3C1ViHVDHuMT/QIgOhTtYQBt/PQR2ypnyEzckv6s8vV8Xy+xKCCb0hgTGPE="
+    "data": "2026-11-08",
+    "assinatura": "MEUCIQCgFNC2wbr3VMjpJ14PvADsutpMU25qLUnok1xg8srMogIgX1UlZ2uo7hgZPBwCMIWuqKPa2QtKtB3a1WO2ahbW8Y0="
   },
   "celular": {
     "versao": "1.35.1",
