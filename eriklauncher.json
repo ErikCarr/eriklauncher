@@ -11,15 +11,14 @@
     "assinatura": "MEQCICsW7aSclqc93WpW+8WBLWiNqBjkE8ZRjJKsj9FKZMFNAiAwdF1nX33n8kumh2iGG0AeYWwihAoBia/nt1nPE/5VCg=="
   },
   "celular": {
-    "versao": "1.36.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.36.0/EriKLauncher-Celular-v1.36.0.apk",
-    "sha256": "516b20e73a143f6c0d3e11b1054f0a05bb6abcd52a294c1ee4cd9d8f8a572e78",
+    "versao": "1.39.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.39.0/EriKLauncher-Celular-v1.39.0.apk",
+    "sha256": "146467e2753e0f823a4ff7a69e44653a70bd9a58aad25d599c8daabbe65bef54",
     "tamanho": 84199445,
     "notas": [
-      "Novo: não precisa mais de código para entrar na sessão do Erik, é só apertar JOGAR. O código só é pedido quando a sessão for restrita a algumas pessoas.",
-      "Corrigido: na primeira abertura, a preparação dos mods não é mais refeita do zero (o Android fechava o jogo em celulares de 3 a 4 GB). Motor atualizado para o modo de pouca memória."
+      "Atualização de manutenção: nada muda na forma de jogar."
     ],
-    "data": "2026-11-08"
+    "data": "2026-11-09"
   },
   "endereco": "https://wisdom-classes-baker-gras.trycloudflare.com",
   "enderecoEm": "2026-11-09T18:39:38.439Z",
