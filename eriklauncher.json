@@ -1,14 +1,14 @@
 {
   "pc": {
-    "versao": "1.36.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.36.0/EriKLauncher-v1.36.0.exe",
-    "sha256": "1a6370c14cc5dc75c1bc18ba2f5d9eb74b01346d0953b01d54fd861b911206eb",
-    "tamanho": 100811559,
+    "versao": "1.39.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.39.0/EriKLauncher-v1.39.0.exe",
+    "sha256": "f6564384c3a6eb8651a8983a6ae33ec6da8414386905e64e3d82961404078367",
+    "tamanho": 100813559,
     "notas": [
-      "Novo: não precisa mais de código para entrar na sessão do Erik, é só apertar JOGAR. O código só é pedido quando a sessão for restrita a algumas pessoas."
+      "Novo: em tela cheia ou janela grande o launcher não dá mais zoom. Fica com o mesmo visual e o mesmo tamanho de letra, com o conteúdo centralizado e em colunas, como um app normal de computador."
     ],
-    "data": "2026-11-08",
-    "assinatura": "MEUCIQCgFNC2wbr3VMjpJ14PvADsutpMU25qLUnok1xg8srMogIgX1UlZ2uo7hgZPBwCMIWuqKPa2QtKtB3a1WO2ahbW8Y0="
+    "data": "2026-11-09",
+    "assinatura": "MEQCICsW7aSclqc93WpW+8WBLWiNqBjkE8ZRjJKsj9FKZMFNAiAwdF1nX33n8kumh2iGG0AeYWwihAoBia/nt1nPE/5VCg=="
   },
   "celular": {
     "versao": "1.36.0",
