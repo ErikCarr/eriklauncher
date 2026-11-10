@@ -14,14 +14,16 @@
     "assinatura": "MEQCIEew/VuPsIL9/7RkpmeZyvsL2OMyVfJ/tmHFGBpnL33qAiAoj9DD5jUTmF2Ja4XHgMMv+NHjQSYYXU7ifCqTrK5CQw=="
   },
   "celular": {
-    "versao": "1.39.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.39.0/EriKLauncher-Celular-v1.39.0.apk",
-    "sha256": "146467e2753e0f823a4ff7a69e44653a70bd9a58aad25d599c8daabbe65bef54",
+    "versao": "1.40.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.40.0/EriKLauncher-Celular-v1.40.0.apk",
+    "sha256": "5a605bccfdac2ca3d76fb3f5ba0617cb3f53439b814f8471eb518627a2abfd60",
     "tamanho": 84199445,
     "notas": [
-      "Atualização de manutenção: nada muda na forma de jogar."
+      "Tela inicial mais limpa: o campo de código saiu daqui. Com a sessão aberta, é só apertar JOGAR.",
+      "Quando o Erik não está com a sessão aberta, o app agora diz \"Sessão fechada\". Deixe aberto: o JOGAR acende sozinho.",
+      "Se o Erik te passar um código, ele vai em Ajustes, em Código da sessão."
     ],
-    "data": "2026-11-09"
+    "data": "2026-11-10"
   },
   "endereco": "https://forecasts-rankings-vacancies-offering.trycloudflare.com",
   "enderecoEm": "2026-11-09T19:52:33.237Z",
