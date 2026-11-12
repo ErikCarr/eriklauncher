@@ -1,17 +1,15 @@
 {
   "pc": {
-    "versao": "1.40.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.40.0/EriKLauncher-v1.40.0.exe",
-    "sha256": "c378d4c54be01dcbc7f5c6e380d1478550bd0e8d9d38a095e4e946918d9b712b",
-    "tamanho": 100811798,
+    "versao": "1.41.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.41.0/EriKLauncher-v1.41.0.exe",
+    "sha256": "222a0ac079219407f8adef6e9a441a0d972c71b125ce0a483c7a16d623cd469a",
+    "tamanho": 100813018,
     "notas": [
-      "Tela inicial mais limpa: o campo de código saiu daqui. Com a sessão aberta, é só apertar JOGAR.",
-      "Quando o Erik não está com a sessão aberta, o launcher agora diz \"Sessão fechada\". Deixe aberto: o JOGAR acende sozinho.",
-      "Se o Erik te passar um código, ele vai em Ajustes, em Código da sessão.",
-      "Corrigido: o logo não fica mais por cima dos cartões em janelas menores."
+      "O cartão de versão nova agora diz \"Há uma versão nova\" e mostra o que mudou.",
+      "Se o Erik encerrar a sessão, o jogo fecha e o launcher explica."
     ],
-    "data": "2026-11-10",
-    "assinatura": "MEQCIEew/VuPsIL9/7RkpmeZyvsL2OMyVfJ/tmHFGBpnL33qAiAoj9DD5jUTmF2Ja4XHgMMv+NHjQSYYXU7ifCqTrK5CQw=="
+    "data": "2026-11-12",
+    "assinatura": "MEUCIQD4SbpkXOSWGFrYbSYdPmo9uJ3QahNIJmXTnBMREIqmrQIgZbRVlcRTteBPDQnsESah47GwYxXKHAx5m18vF13VOjQ="
   },
   "celular": {
     "versao": "1.41.0",
