@@ -14,16 +14,17 @@
     "assinatura": "MEQCIEew/VuPsIL9/7RkpmeZyvsL2OMyVfJ/tmHFGBpnL33qAiAoj9DD5jUTmF2Ja4XHgMMv+NHjQSYYXU7ifCqTrK5CQw=="
   },
   "celular": {
-    "versao": "1.40.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.40.0/EriKLauncher-Celular-v1.40.0.apk",
-    "sha256": "5a605bccfdac2ca3d76fb3f5ba0617cb3f53439b814f8471eb518627a2abfd60",
-    "tamanho": 84199445,
+    "versao": "1.41.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.41.0/EriKLauncher-Celular-v1.41.0.apk",
+    "sha256": "28c002738b488db71c07d632442fc03c816bcaea61be46b986310ef94e1231fd",
+    "tamanho": 84199441,
     "notas": [
-      "Tela inicial mais limpa: o campo de código saiu daqui. Com a sessão aberta, é só apertar JOGAR.",
-      "Quando o Erik não está com a sessão aberta, o app agora diz \"Sessão fechada\". Deixe aberto: o JOGAR acende sozinho.",
-      "Se o Erik te passar um código, ele vai em Ajustes, em Código da sessão."
+      "Agora o app avisa quando o seu Among Us está desatualizado: atualize na Google Play e o jogo volta a abrir.",
+      "Novo em Ajustes: \"Interface leve\", que tira animações e transparências. Bom para celular com 3 a 4 GB.",
+      "Se a atualização falhar, o app diz se foi ao baixar ou ao instalar e deixa baixar pelo navegador.",
+      "Se o Erik encerrar a sessão, o jogo fecha e o app explica, sem pedir relatório de erro."
     ],
-    "data": "2026-11-10"
+    "data": "2026-11-12"
   },
   "endereco": "https://arrested-little-illinois-meetings.trycloudflare.com",
   "enderecoEm": "2026-11-11T17:49:19.111Z",
