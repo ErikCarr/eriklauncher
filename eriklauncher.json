@@ -1,15 +1,14 @@
 {
   "pc": {
-    "versao": "1.41.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.41.0/EriKLauncher-v1.41.0.exe",
-    "sha256": "222a0ac079219407f8adef6e9a441a0d972c71b125ce0a483c7a16d623cd469a",
-    "tamanho": 100813018,
+    "versao": "1.41.1",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.41.1/EriKLauncher-v1.41.1.exe",
+    "sha256": "456e36b6f204cac611df5c3e275afbb08d826e1fda6e58bf56e43795379f062f",
+    "tamanho": 100812296,
     "notas": [
-      "O cartão de versão nova agora diz \"Há uma versão nova\" e mostra o que mudou.",
-      "Se o Erik encerrar a sessão, o jogo fecha e o launcher explica."
+      "Tela inicial: sumiu o espaço vazio acima do JOGAR."
     ],
-    "data": "2026-11-12",
-    "assinatura": "MEUCIQD4SbpkXOSWGFrYbSYdPmo9uJ3QahNIJmXTnBMREIqmrQIgZbRVlcRTteBPDQnsESah47GwYxXKHAx5m18vF13VOjQ="
+    "data": "2026-11-13",
+    "assinatura": "MEYCIQDwa8Jo6K+jktJ77ns2T7xxK68nKlwMrcjpw0TDALuJmgIhAPCfO34YEqUD5+8RquujiZsfweLkAM4nYldXTMGWCw/P"
   },
   "celular": {
     "versao": "1.41.1",
