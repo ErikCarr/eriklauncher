@@ -12,17 +12,14 @@
     "assinatura": "MEUCIQD4SbpkXOSWGFrYbSYdPmo9uJ3QahNIJmXTnBMREIqmrQIgZbRVlcRTteBPDQnsESah47GwYxXKHAx5m18vF13VOjQ="
   },
   "celular": {
-    "versao": "1.41.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.41.0/EriKLauncher-Celular-v1.41.0.apk",
-    "sha256": "28c002738b488db71c07d632442fc03c816bcaea61be46b986310ef94e1231fd",
+    "versao": "1.41.1",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.41.1/EriKLauncher-Celular-v1.41.1.apk",
+    "sha256": "7b8618f69e75bed8ea6c062dd2f3c5c4cdbe2b09def6c69b8beed82a90cf9893",
     "tamanho": 84199441,
     "notas": [
-      "Agora o app avisa quando o seu Among Us está desatualizado: atualize na Google Play e o jogo volta a abrir.",
-      "Novo em Ajustes: \"Interface leve\", que tira animações e transparências. Bom para celular com 3 a 4 GB.",
-      "Se a atualização falhar, o app diz se foi ao baixar ou ao instalar e deixa baixar pelo navegador.",
-      "Se o Erik encerrar a sessão, o jogo fecha e o app explica, sem pedir relatório de erro."
+      "Tela inicial: sumiu o espaço vazio acima do JOGAR. O \"Relatar um problema\" volta a aparecer em tela pequena."
     ],
-    "data": "2026-11-12"
+    "data": "2026-11-13"
   },
   "endereco": "https://plug-jewellery-consolidation-isp.trycloudflare.com",
   "enderecoEm": "2026-11-13T02:28:00.226Z",
