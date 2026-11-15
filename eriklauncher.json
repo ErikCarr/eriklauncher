@@ -1,14 +1,14 @@
 {
   "pc": {
-    "versao": "1.41.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.41.1/EriKLauncher-v1.41.1.exe",
-    "sha256": "456e36b6f204cac611df5c3e275afbb08d826e1fda6e58bf56e43795379f062f",
-    "tamanho": 100812296,
+    "versao": "1.41.2",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.41.2/EriKLauncher-v1.41.2.exe",
+    "sha256": "a359de1dc5fc4237ca45c0c71807c19eddb3b3dbedf5699d24f17d1dddc39ba9",
+    "tamanho": 100831825,
     "notas": [
-      "Tela inicial: sumiu o espaço vazio acima do JOGAR."
+      "ErikPerformance atualizado no Jogar normal: o + e o − não fecham mais o menu, novo botão \"VOLTAR 100%\", mover os botões e Modo Escuro."
     ],
-    "data": "2026-11-13",
-    "assinatura": "MEYCIQDwa8Jo6K+jktJ77ns2T7xxK68nKlwMrcjpw0TDALuJmgIhAPCfO34YEqUD5+8RquujiZsfweLkAM4nYldXTMGWCw/P"
+    "data": "2026-11-15",
+    "assinatura": "MEQCIB8DQuofQkn/fx2HhywMrWaaj4chn5VlFEY5c5GpB1FcAiBRcj0ILO1IDi0j6AMEez4f/opTWNhAqHcaL2KMY6LeGg=="
   },
   "celular": {
     "versao": "1.41.1",
