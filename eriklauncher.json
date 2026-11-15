@@ -11,14 +11,14 @@
     "assinatura": "MEQCIB8DQuofQkn/fx2HhywMrWaaj4chn5VlFEY5c5GpB1FcAiBRcj0ILO1IDi0j6AMEez4f/opTWNhAqHcaL2KMY6LeGg=="
   },
   "celular": {
-    "versao": "1.41.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.41.1/EriKLauncher-Celular-v1.41.1.apk",
-    "sha256": "7b8618f69e75bed8ea6c062dd2f3c5c4cdbe2b09def6c69b8beed82a90cf9893",
-    "tamanho": 84199441,
+    "versao": "1.41.2",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.41.2/EriKLauncher-Celular-v1.41.2.apk",
+    "sha256": "b1d44705938933c6c79ea4bad2c5d551f870e7aba09c304efcef614ea52297de",
+    "tamanho": 84232269,
     "notas": [
-      "Tela inicial: sumiu o espaço vazio acima do JOGAR. O \"Relatar um problema\" volta a aparecer em tela pequena."
+      "ErikPerformance atualizado: o + e o − não fecham mais o menu, novo botão \"VOLTAR 100%\", mover os botões e Modo Escuro. Possível correção para celulares Xiaomi/POCO que não abriam o jogo."
     ],
-    "data": "2026-11-13"
+    "data": "2026-11-15"
   },
   "endereco": "https://riders-speaker-writing-complete.trycloudflare.com",
   "enderecoEm": "2026-11-14T21:52:50.449Z",
