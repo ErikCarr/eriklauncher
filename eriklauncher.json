@@ -1,14 +1,14 @@
 {
   "pc": {
-    "versao": "1.41.2",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.41.2/EriKLauncher-v1.41.2.exe",
-    "sha256": "a359de1dc5fc4237ca45c0c71807c19eddb3b3dbedf5699d24f17d1dddc39ba9",
-    "tamanho": 100831825,
+    "versao": "1.42.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.42.0/EriKLauncher-v1.42.0.exe",
+    "sha256": "978c411762e85705352231eb427ee55f90bb3f17e69d7eeb322748669a733a92",
+    "tamanho": 100830603,
     "notas": [
-      "ErikPerformance atualizado no Jogar normal: o + e o − não fecham mais o menu, novo botão \"VOLTAR 100%\", mover os botões e Modo Escuro."
+      "Ajustes na sessão do Erik."
     ],
-    "data": "2026-11-15",
-    "assinatura": "MEQCIB8DQuofQkn/fx2HhywMrWaaj4chn5VlFEY5c5GpB1FcAiBRcj0ILO1IDi0j6AMEez4f/opTWNhAqHcaL2KMY6LeGg=="
+    "data": "2026-11-16",
+    "assinatura": "MEUCIQDRkk4JvDSBb41cyA4tjJMFC0GoZKm/yK6bC0kjZr1hFgIgFbZ9DflB/3XkFYHaILmGBGe8/wrEeOmuOVdHlFbCQa4="
   },
   "celular": {
     "versao": "1.41.2",
