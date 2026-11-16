@@ -11,14 +11,14 @@
     "assinatura": "MEUCIQDRkk4JvDSBb41cyA4tjJMFC0GoZKm/yK6bC0kjZr1hFgIgFbZ9DflB/3XkFYHaILmGBGe8/wrEeOmuOVdHlFbCQa4="
   },
   "celular": {
-    "versao": "1.41.2",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.41.2/EriKLauncher-Celular-v1.41.2.apk",
-    "sha256": "b1d44705938933c6c79ea4bad2c5d551f870e7aba09c304efcef614ea52297de",
-    "tamanho": 84232269,
+    "versao": "1.42.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.42.0/EriKLauncher-Celular-v1.42.0.apk",
+    "sha256": "bacef1816762a13cfe96d1fcb2bae3535369af5c9b5e0c448ec67de19d53d328",
+    "tamanho": 84248653,
     "notas": [
-      "ErikPerformance atualizado: o + e o − não fecham mais o menu, novo botão \"VOLTAR 100%\", mover os botões e Modo Escuro. Possível correção para celulares Xiaomi/POCO que não abriam o jogo."
+      "Correção das quedas do jogo na sessão do Erik em vários celulares. Possível correção para celulares Xiaomi/POCO/Redmi em que o motor não iniciava. Novo botão \"Relatar este problema\" na tela de carregamento."
     ],
-    "data": "2026-11-15"
+    "data": "2026-11-16"
   },
   "endereco": "https://requesting-homework-scored-duty.trycloudflare.com",
   "enderecoEm": "2026-11-15T18:13:08.599Z",
