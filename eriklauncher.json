@@ -11,14 +11,14 @@
     "assinatura": "MEQCIFsjButjUFtPuUT3HyfcspBPnCAlP5sx2PUIQrwPSygkAiAk5gbXHIDIEt6pS8H76jZ+df2NpPYrvvJEZvOL25BpsA=="
   },
   "celular": {
-    "versao": "1.42.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.42.0/EriKLauncher-Celular-v1.42.0.apk",
-    "sha256": "bacef1816762a13cfe96d1fcb2bae3535369af5c9b5e0c448ec67de19d53d328",
-    "tamanho": 84248653,
+    "versao": "1.43.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.43.0/EriKLauncher-Celular-v1.43.0.apk",
+    "sha256": "61a51b4532f938e66c942dea2b68216fa549a09b9f1ab93ef4f8a3e3e0fc98e5",
+    "tamanho": 84248697,
     "notas": [
-      "Correção das quedas do jogo na sessão do Erik em vários celulares. Possível correção para celulares Xiaomi/POCO/Redmi em que o motor não iniciava. Novo botão \"Relatar este problema\" na tela de carregamento."
+      "Novo: quando o jogo demora para carregar ou o motor não inicia, o botão \"Relatar este problema\" abre o relato já preenchido."
     ],
-    "data": "2026-11-16"
+    "data": "2026-11-17"
   },
   "endereco": "https://salvation-armstrong-deferred-partition.trycloudflare.com",
   "enderecoEm": "2026-11-16T20:04:05.769Z",
