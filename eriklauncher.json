@@ -1,14 +1,15 @@
 {
   "pc": {
-    "versao": "1.43.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.43.0/EriKLauncher-v1.43.0.exe",
-    "sha256": "7c217c622ed90f825ce09aa8d7b20314f679e04df427ecaa2654e8eb2c664cbd",
-    "tamanho": 100832426,
+    "versao": "1.44.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.44.0/EriKLauncher-v1.44.0.exe",
+    "sha256": "579c4179475e13e705d9b06fb5e3d6efd5c282a4af79b1f3e35f76177d98d6e4",
+    "tamanho": 100835070,
     "notas": [
-      "Ajustes na tela."
+      "O \"Melhorar desempenho\" do Jogar normal agora se atualiza sozinho: quando sair uma versão nova do ErikPerformance, o launcher baixa e confere sozinho, sem precisar de versão nova do app.",
+      "A janela do Jogar normal mostra a versão do ErikPerformance e de onde ela veio."
     ],
     "data": "2026-11-17",
-    "assinatura": "MEQCIFsjButjUFtPuUT3HyfcspBPnCAlP5sx2PUIQrwPSygkAiAk5gbXHIDIEt6pS8H76jZ+df2NpPYrvvJEZvOL25BpsA=="
+    "assinatura": "MEYCIQCjDZ3O2PEydhXRHuzMvNkJOj5Ptv0J8D7vL9OQN2rsMAIhAMo+bCReY1Y4x/e9Mo2qaNFNe//c+q8aFe5+4Ii11l+1"
   },
   "celular": {
     "versao": "1.43.0",
