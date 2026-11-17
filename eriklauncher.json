@@ -1,14 +1,14 @@
 {
   "pc": {
-    "versao": "1.42.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.42.0/EriKLauncher-v1.42.0.exe",
-    "sha256": "978c411762e85705352231eb427ee55f90bb3f17e69d7eeb322748669a733a92",
-    "tamanho": 100830603,
+    "versao": "1.43.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.43.0/EriKLauncher-v1.43.0.exe",
+    "sha256": "7c217c622ed90f825ce09aa8d7b20314f679e04df427ecaa2654e8eb2c664cbd",
+    "tamanho": 100832426,
     "notas": [
-      "Ajustes na sessão do Erik."
+      "Ajustes na tela."
     ],
-    "data": "2026-11-16",
-    "assinatura": "MEUCIQDRkk4JvDSBb41cyA4tjJMFC0GoZKm/yK6bC0kjZr1hFgIgFbZ9DflB/3XkFYHaILmGBGe8/wrEeOmuOVdHlFbCQa4="
+    "data": "2026-11-17",
+    "assinatura": "MEQCIFsjButjUFtPuUT3HyfcspBPnCAlP5sx2PUIQrwPSygkAiAk5gbXHIDIEt6pS8H76jZ+df2NpPYrvvJEZvOL25BpsA=="
   },
   "celular": {
     "versao": "1.42.0",
