@@ -12,12 +12,13 @@
     "assinatura": "MEYCIQCjDZ3O2PEydhXRHuzMvNkJOj5Ptv0J8D7vL9OQN2rsMAIhAMo+bCReY1Y4x/e9Mo2qaNFNe//c+q8aFe5+4Ii11l+1"
   },
   "celular": {
-    "versao": "1.43.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.43.0/EriKLauncher-Celular-v1.43.0.apk",
-    "sha256": "61a51b4532f938e66c942dea2b68216fa549a09b9f1ab93ef4f8a3e3e0fc98e5",
-    "tamanho": 84248697,
+    "versao": "1.44.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.44.0/EriKLauncher-Celular-v1.44.0.apk",
+    "sha256": "358d1758d345f3a3368cbc40370d8a11168b90d907ac4edd8a1770e77c963b10",
+    "tamanho": 84265081,
     "notas": [
-      "Novo: quando o jogo demora para carregar ou o motor não inicia, o botão \"Relatar este problema\" abre o relato já preenchido."
+      "O \"Melhorar desempenho\" do Jogar normal agora se atualiza sozinho: quando sair uma versão nova do ErikPerformance, o launcher baixa e confere sozinho, sem precisar de versão nova do app.",
+      "A janela do Jogar normal mostra a versão do ErikPerformance e de onde ela veio."
     ],
     "data": "2026-11-17"
   },
