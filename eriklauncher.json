@@ -12,15 +12,16 @@
     "assinatura": "MEYCIQCjDZ3O2PEydhXRHuzMvNkJOj5Ptv0J8D7vL9OQN2rsMAIhAMo+bCReY1Y4x/e9Mo2qaNFNe//c+q8aFe5+4Ii11l+1"
   },
   "celular": {
-    "versao": "1.44.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.44.0/EriKLauncher-Celular-v1.44.0.apk",
-    "sha256": "358d1758d345f3a3368cbc40370d8a11168b90d907ac4edd8a1770e77c963b10",
+    "versao": "1.45.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.45.0/EriKLauncher-Celular-v1.45.0.apk",
+    "sha256": "eb4b9f0dbf0d47f1f3a2389bc5e1c4cfc5b7542d7254c0b29df888885b0a3d1d",
     "tamanho": 84265081,
     "notas": [
-      "O \"Melhorar desempenho\" do Jogar normal agora se atualiza sozinho: quando sair uma versão nova do ErikPerformance, o launcher baixa e confere sozinho, sem precisar de versão nova do app.",
-      "A janela do Jogar normal mostra a versão do ErikPerformance e de onde ela veio."
+      "Quem cria a sala vê um selo no topo do lobby com quem está sem mod ou com mod a mais. Tocando nele abre a Conferência de mods, com o nome do mod e o botão Avisar no chat.",
+      "Ninguém vê mais o código do aparelho dos outros jogadores.",
+      "No PC, a tecla do painel (F8) pode ser trocada no próprio painel."
     ],
-    "data": "2026-11-17"
+    "data": "2026-11-18"
   },
   "endereco": "https://shannon-lined-acquisitions-heritage.trycloudflare.com",
   "enderecoEm": "2026-11-17T18:35:42.693Z",
