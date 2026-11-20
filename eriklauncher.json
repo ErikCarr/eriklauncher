@@ -1,16 +1,14 @@
 {
   "pc": {
-    "versao": "1.45.0",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.45.0/EriKLauncher-v1.45.0.exe",
-    "sha256": "1f46ce5de8017a2c758cb8c3646115f53ce8382cb6fc49df1a4c68d666351519",
-    "tamanho": 100846078,
+    "versao": "1.45.1",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.45.1/EriKLauncher-v1.45.1.exe",
+    "sha256": "b8094f387236298bd4bcf9a4dd364fd18d3d14e34a231fea2f821094e9e3205c",
+    "tamanho": 100847458,
     "notas": [
-      "Quem cria a sala vê um selo no topo do lobby com quem está sem mod ou com mod a mais. Tocando nele abre a Conferência de mods, com o nome do mod e o botão Avisar no chat.",
-      "Ninguém vê mais o código do aparelho dos outros jogadores.",
-      "No PC, a tecla do painel (F8) pode ser trocada no próprio painel."
+      "Ajustes pequenos (a correção desta versão é para o celular)."
     ],
-    "data": "2026-11-18",
-    "assinatura": "MEYCIQD6JEullHUTkTBCZCMLaNTHn9ybr/TjM2GX2oxi5ofrRwIhAI6L3mBAwqk+YviYp9fMMA2UmyT0+k1cwJcMxLmeEfjD"
+    "data": "2026-11-20",
+    "assinatura": "MEQCIEHpEjeORSs9D8zndvQYkSxBFE5jahKfOaQ2HIgfkPQjAiAD8wjaJLNipRl1hFdeqngFmwDSB2viwi8MZS9yHWQNfw=="
   },
   "celular": {
     "versao": "1.45.1",
