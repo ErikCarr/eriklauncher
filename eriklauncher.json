@@ -11,15 +11,14 @@
     "assinatura": "MEQCIEHpEjeORSs9D8zndvQYkSxBFE5jahKfOaQ2HIgfkPQjAiAD8wjaJLNipRl1hFdeqngFmwDSB2viwi8MZS9yHWQNfw=="
   },
   "celular": {
-    "versao": "1.45.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.45.1/EriKLauncher-Celular-v1.45.1.apk",
-    "sha256": "1b849f83b91b9a173a170774183d3d7036a7932601072ec1cd7eb6ec6b44ef16",
+    "versao": "1.45.2",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.45.2/EriKLauncher-Celular-v1.45.2.apk",
+    "sha256": "ed7c9f7c4106f3e180ba4985be26929310353f8f49df9ebc882ef945fa392137",
     "tamanho": 84265081,
     "notas": [
-      "Correção: em celulares Xiaomi e POCO, o jogo não deve mais parar em \"O motor não conseguiu iniciar\" nem fechar logo depois de abrir.",
-      "O \"Tentar de novo\" não mostra mais o erro da tentativa anterior."
+      "Ajustes pequenos (a correção desta versão é para o Host, o painel de quem abre as salas)."
     ],
-    "data": "2026-11-20"
+    "data": "2026-11-25"
   },
   "endereco": "https://zero-mild-marshall-reading.trycloudflare.com",
   "enderecoEm": "2026-11-25T07:18:35.291Z",
