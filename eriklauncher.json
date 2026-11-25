@@ -1,14 +1,14 @@
 {
   "pc": {
-    "versao": "1.45.1",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.45.1/EriKLauncher-v1.45.1.exe",
-    "sha256": "b8094f387236298bd4bcf9a4dd364fd18d3d14e34a231fea2f821094e9e3205c",
-    "tamanho": 100847458,
+    "versao": "1.45.2",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-v1.45.2/EriKLauncher-v1.45.2.exe",
+    "sha256": "a98ea6642fad145a6ad60abae0170286cf34533afb62464b28f30904815c680a",
+    "tamanho": 100813217,
     "notas": [
-      "Ajustes pequenos (a correção desta versão é para o celular)."
+      "Ajustes pequenos (a correção desta versão é para o Host, o painel de quem abre as salas)."
     ],
-    "data": "2026-11-20",
-    "assinatura": "MEQCIEHpEjeORSs9D8zndvQYkSxBFE5jahKfOaQ2HIgfkPQjAiAD8wjaJLNipRl1hFdeqngFmwDSB2viwi8MZS9yHWQNfw=="
+    "data": "2026-11-25",
+    "assinatura": "MEYCIQDfIoXk4biwvV6BG+/S0ARlPCrtUYBPcy62vKf6/YzNMAIhAK5F/YScUQlHlVg5jCXgLRIyPKLG2i/TxYgbg+LdQnpC"
   },
   "celular": {
     "versao": "1.45.2",
