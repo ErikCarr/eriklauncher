@@ -11,14 +11,14 @@
     "assinatura": "MEUCIHN/kmJ2zV7uVPDU40nyveghHOuotDcJlMoqTgdiHJ0AAiEA2kUlkpt03DMptP8lFaiCznQGKfGHUdQznyYMttoA7cs="
   },
   "celular": {
-    "versao": "1.45.2",
-    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.45.2/EriKLauncher-Celular-v1.45.2.apk",
-    "sha256": "ed7c9f7c4106f3e180ba4985be26929310353f8f49df9ebc882ef945fa392137",
+    "versao": "1.47.0",
+    "url": "https://github.com/ErikCarr/eriklauncher/releases/download/launcher-celular-v1.47.0/EriKLauncher-Celular-v1.47.0.apk",
+    "sha256": "2d48ccf9a3f8bf476868219cc99dfd0481cc53157358c7f44d7fbf7f3d9044c8",
     "tamanho": 84265081,
     "notas": [
-      "Ajustes pequenos (a correção desta versão é para o Host, o painel de quem abre as salas)."
+      "O servidor das sessoes agora fica numa maquina na nuvem, sempre no ar (nao depende mais do PC do Erik ligado). Fila de verdade na Sala do Erik: voce entra na fila e entra sozinho na sua vez."
     ],
-    "data": "2026-11-25"
+    "data": "2026-11-27"
   },
   "endereco": "https://host.erikcarr.com",
   "enderecoEm": "2026-11-27T19:40:13.214Z",
